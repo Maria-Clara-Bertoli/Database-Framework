@@ -1,0 +1,7 @@
+package com.maria.databaseframework;
+
+public interface ComplexTableGeneratorFactoryInterface {
+	
+	public ComplexTableGenerator createSimpleDependencyComplexTableGenerator(ComplexTable complexTable, SimpleTable dependencySimpleTable);
+	public ComplexTableGenerator createComplexDependencyComplexTableGenerator(ComplexTable complexTable, ComplexTable dependencyComplexTable);
+}
