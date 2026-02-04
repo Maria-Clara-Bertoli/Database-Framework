@@ -12,14 +12,10 @@ Este repositório contém a implementação de uma **biblioteca desenvolvida na 
 - A biblioteca com extensão `.jar`
 - O diagrama de classes com extensão `.pdf`
 
----
-
 ## ⚙️ Funcionalidades
 
 - 🛠️ Executar scripts SQL de criação de um banco de dados e de tabelas no **banco de dados MySQL**
 - 📄 Gerar scripts SQL de criação de um banco de dados e de tabelas, respeitando a **sintaxe da linguagem MySQL** e apresentá-los ao usuário
-
----
 
 ## 🧰 Tecnologias Utilizadas
 
